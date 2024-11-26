@@ -10,16 +10,16 @@ export default function About() {
             About Us ✨
           </h1>
           <p className="text-xl text-gray-600">
-            Empowering retailers with AI-driven store naming
+            Empowering retailers with AI-driven website naming
           </p>
         </div>
         
         <div className="gradient-border mb-16">
           <div className="p-8 text-center">
             <p className="text-xl leading-relaxed text-gray-700">
-              Welcome to AI Store Name Generator, where creativity meets artificial intelligence to help
-              retailers find their perfect store name. Our platform leverages cutting-edge
-              AI technology to generate unique, memorable names that capture your store's essence
+              Welcome to AI Website Name Generator, where creativity meets artificial intelligence to help
+              retailers find their perfect website name. Our platform leverages cutting-edge
+              AI technology to generate unique, memorable names that capture your website's essence
               and attract customers. ✨
             </p>
           </div>
@@ -33,7 +33,7 @@ export default function About() {
               </div>
               <h2 className="text-2xl font-semibold">Our Mission 🎯</h2>
               <p className="text-gray-600">
-                Making professional store name generation accessible to everyone, from small boutiques
+                Making professional website name generation accessible to everyone, from small boutiques
                 to large retail chains.
               </p>
             </div>
@@ -61,8 +61,8 @@ export default function About() {
             <h2 className="text-3xl font-semibold mb-4">How It Works ⚡</h2>
             <p className="text-gray-600 leading-relaxed max-w-2xl mx-auto">
               Our AI-powered platform uses advanced natural language processing to understand your
-              store concept and generate relevant, creative names. We combine linguistic
-              patterns from successful retail brands with your specific store context
+              website concept and generate relevant, creative names. We combine linguistic
+              patterns from successful retail brands with your specific website context
               to create names that resonate with your target customers.
             </p>
           </section>
@@ -74,7 +74,7 @@ export default function About() {
             <h2 className="text-3xl font-semibold mb-4">Our Commitment 🤝</h2>
             <p className="text-gray-600 leading-relaxed max-w-2xl mx-auto">
               We're committed to providing a reliable, user-friendly tool that helps retailers
-              find their perfect store name. We continuously improve our AI models and user
+              find their perfect website name. We continuously improve our AI models and user
               experience based on feedback from our community.
             </p>
           </section>
